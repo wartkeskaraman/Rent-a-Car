@@ -1,0 +1,13 @@
+Daily Rent A Car Program®
+
+This project is created by:
+
+Vartkes KARAMAN
+Erdem DÝRÝCAN
+Emir GÜNER
+Berk TURUT
+
+
+Used Object Oriented C++.
+
+ 

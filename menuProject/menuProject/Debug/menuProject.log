@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\turut\desktop\menuproject\menuproject\menu.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(226): warning C4018: '>=': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\menu.h(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\entrance.h(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\entrance.h(316): warning C4018: '<': signed/unsigned mismatch
+c:\users\turut\desktop\menuproject\menuproject\entrance.h(79): warning C4715: 'Entrance::menuDecider': not all control paths return a value
+c:\users\turut\desktop\menuproject\menuproject\entrance.h(368): warning C4715: 'Entrance::showTheBill': not all control paths return a value
+  menuProject.vcxproj -> C:\Users\turut\Desktop\menuProject\Debug\menuProject.exe
+  menuProject.vcxproj -> C:\Users\turut\Desktop\menuProject\Debug\menuProject.pdb (Partial PDB)
